@@ -1,3 +1,5 @@
+****%%%@$@((@( still in development   )****%%%@$@((@(
+
 # Stock Price Prediction Model with Transformer Architecture
 
 This project implements a deep learning model for stock price prediction using the Informer architecture, a Transformer-based model optimized for time series forecasting.
